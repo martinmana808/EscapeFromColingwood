@@ -1,0 +1,9 @@
+<svg width="64" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tile 0: Floor -->
+  <rect x="0" y="0" width="32" height="32" fill="#8D6E63" />
+  <rect x="2" y="2" width="28" height="28" fill="#A1887F" />
+  
+  <!-- Tile 1: Wall -->
+  <rect x="32" y="0" width="32" height="32" fill="#607D8B" />
+  <rect x="34" y="2" width="28" height="28" fill="#78909C" />
+</svg>

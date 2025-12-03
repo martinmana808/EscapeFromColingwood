@@ -1,0 +1,34 @@
+{
+    "norbert": {
+        "default": [
+            "Keep the noise down!",
+            "I'm watching you...",
+            "Did you pay rent yet?"
+        ],
+        "angry": [
+            "WHAT DID I SAY ABOUT THE NOISE?!",
+            "Get out of my sight!"
+        ]
+    },
+    "jessie": {
+        "default": [
+            "Ugh, this lighting is terrible for my selfie.",
+            "Have you seen my tiara?",
+            "Norbert is being SO annoying today."
+        ]
+    },
+    "jesus": {
+        "default": [
+            "The river flows, but the water is never the same.",
+            "Have you watered the plants of your soul today?",
+            "Hola, Ellie."
+        ]
+    },
+    "salo": {
+        "default": [
+            "Life is like tennis, you have to serve well.",
+            "Backhand! Forehand! Discipline!",
+            "Are you ready for the match?"
+        ]
+    }
+}
